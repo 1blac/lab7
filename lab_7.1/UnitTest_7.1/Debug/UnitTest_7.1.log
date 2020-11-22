@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  UnitTest_7.1.cpp
+C:\Users\1\source\repos\lab_7.1\UnitTest_7.1\UnitTest_7.1.cpp(19,1): error C2440: '=': cannot convert from 'void' to 'int'
+C:\Users\1\source\repos\lab_7.1\UnitTest_7.1\UnitTest_7.1.cpp(19,21): message : Expressions of type void cannot be converted to other types
